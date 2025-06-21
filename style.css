@@ -59,8 +59,7 @@
 .nav-search{
     display: flex;
     justify-content: space-evenly;
-    background-color: pink;
-    width: 620px;
+    width: 1120px;
     height: 40px;
     border-radius: 4px;
 }
@@ -93,6 +92,9 @@
 
 }
 
+.nav-search:hover{
+    border: 2px solid orange;
+}
 
 /* language box navbar */
 
@@ -112,7 +114,7 @@
 /*account box navbar*/
 .nav-hello{
     font-size: 0.8rem;
-    color:#CCCCCC
+
 }
 .account-select{
     background-color: #0f1111;
@@ -126,7 +128,6 @@
 
 .para-returns{
     font-size: 0.8rem;
-    color:#CCCCCC
 }
 
 .para-orders{
@@ -134,3 +135,16 @@
     font-size: 1rem;
     font-weight: bold;
 }
+
+
+
+
+/*cart box navbar*/
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.nav-cart i{
+    font-size: 30px;
+}
+
