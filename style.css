@@ -148,3 +148,19 @@
     font-size: 30px;
 }
 
+
+/*panel start*/
+.panel{
+    display: flex;
+    background-color: #232F3E;
+    height: 40px;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-options{
+    display: flex;
+    width: 80%;
+    font-size: 0.85rems;
+}
