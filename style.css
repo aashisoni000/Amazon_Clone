@@ -162,5 +162,8 @@
 .panel-options{
     display: flex;
     width: 80%;
-    font-size: 0.85rems;
+    font-size: 0.85rem;
+}
+.panel-options p{
+    margin-left: 15px;
 }
