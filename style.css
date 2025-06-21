@@ -167,3 +167,27 @@
 .panel-options p{
     margin-left: 15px;
 }
+
+
+
+/* main section */
+.main-section{
+    background-image: url(main2.jpg);
+    height: 600px;
+    background-size: cover;
+}
+
+
+.main-message{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rems;
+}
+
+.main-message a{
+    color:#007185
+}
