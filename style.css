@@ -94,3 +94,16 @@
 }
 
 
+/* language box navbar */
+
+.nav-language{
+    width: 45px;
+    display: flex;
+
+}
+.language-select{
+    background-color: #0f1111;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
