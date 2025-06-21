@@ -107,3 +107,30 @@
     color: white;
     font-weight: bold;
 }
+
+
+/*account box navbar*/
+.nav-hello{
+    font-size: 0.8rem;
+    color:#CCCCCC
+}
+.account-select{
+    background-color: #0f1111;
+    color:white;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/*returns box navbar*/
+
+.para-returns{
+    font-size: 0.8rem;
+    color:#CCCCCC
+}
+
+.para-orders{
+    color:white;
+    font-size: 1rem;
+    font-weight: bold;
+}
