@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url(amazonlogo.png);
+    background-image: url(images/amazonlogo.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -172,7 +172,7 @@
 
 /* main section */
 .main-section{
-    background-image: url(main2.jpg);
+    background-image: url(images/main2.jpg);
     height: 500px;
     background-size: cover;
     display: flex;
