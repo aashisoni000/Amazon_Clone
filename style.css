@@ -173,8 +173,11 @@
 /* main section */
 .main-section{
     background-image: url(main2.jpg);
-    height: 600px;
+    height: 500px;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
 }
 
 
@@ -186,8 +189,14 @@
     align-items: center;
     justify-content: center;
     font-size: 0.85rems;
+    width: 80%;
+    margin-bottom: 50px;
+
+
 }
 
 .main-message a{
-    color:#007185
+    color:#007185;
+    text-decoration: none;
+    
 }
