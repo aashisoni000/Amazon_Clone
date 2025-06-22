@@ -172,7 +172,7 @@
 
 /* main section */
 .main-section{
-    background-image: url(main2.jpg);
+    background-image: url(main.jpg);
     height: 500px;
     background-size: cover;
     display: flex;
@@ -199,4 +199,18 @@
     color:#007185;
     text-decoration: none;
     
+}
+
+
+/* shop section */
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(206, 206, 206);
+}
+.box{
+    height: 400px;
+    border: 2px solid black;
+    width: 23%;
+    background-color: white;
 }
