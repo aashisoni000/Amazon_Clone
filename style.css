@@ -316,8 +316,8 @@ body{
 .recommendation-section{
     background-color: white;
     margin-top: 25px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 45px;
+    padding-bottom: 25px;
 }
 
 .recommendation-msg{
@@ -343,4 +343,80 @@ body{
 
 .recommendation-msg p{
     font-size: 12px;
+}
+
+
+/*foooter*/
+
+.footer1{
+    background-color: #37475a;
+    height: 50px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px; 
+}
+
+.footer2{
+    background-color: #232f3e;
+    height: 320px;
+    color: #dddddd;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-right: 500px;
+
+
+}
+.footer2 h4{
+    font-size: 17px;
+    color: white;
+    margin-bottom: 17px;
+}
+
+.footer2 p{
+    margin-bottom: 15px;
+    font-size: 14px;
+    
+}
+
+.footer3{
+    background-color: #232f3e;
+    height: 100px;
+    border-top: #535353 0.1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.amazon-logo-footer{
+    background-image: url(/images/amazonlogo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 60px;
+    height: 10px;
+    padding-right: 100px;
+    padding-top: 25px;
+}
+
+.footer3 button{
+    background-color: #232f3e;
+    height: 35px;
+    width: 150px;
+    border-radius: 0.3rem;
+    margin: 5px;
+    color: #dddddd;
+    border: #696969 1px solid;
+
+
+}
+
+
+.footer4{
+    background-color: #131a22;
+    height: 400px;
 }
