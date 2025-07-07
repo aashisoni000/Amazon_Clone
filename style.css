@@ -365,9 +365,9 @@ body{
     font-size: 15px;
     display: flex;
     justify-content: space-evenly;
-    padding-top: 100px;
-    padding-left: 500px;
-    padding-right: 500px;
+    padding-top: 50px;
+    padding-left: 450px;
+    padding-right: 450px;
 
 
 }
@@ -415,8 +415,35 @@ body{
 
 }
 
+.footer-info{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.footer-info p{
+    margin: 5px;
+    padding-left: 50px;
+}
 
 .footer4{
     background-color: #131a22;
-    height: 400px;
+    height: 390px;
+    padding: 30px;
+    color:rgb(160, 160, 160);
+    font-size: 12px;
+
+}
+
+.headingf{
+    color:white;
+    padding-top: 10px;
+
+}
+
+.footer4 pre{
+    text-align: center;
+    padding-top: 17px;
+    color:white;
 }
