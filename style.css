@@ -250,16 +250,18 @@
 }
 
 .box2-img{
-    height: 115px;
+    height: 135px;
     width: 174px;
     align-items: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 0.5rem;
 }
 
 .box2-content h2{
     margin-top: 17px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .box2-imgbox{
@@ -272,5 +274,6 @@
     color: #007185;
     margin-left: 2rem;
     margin-right: 1rem;
-    margin-top: 2.75rem;
+    margin-top: 0.75rem;
+    
 }
