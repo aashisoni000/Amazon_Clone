@@ -212,6 +212,7 @@ body{
     display:flex;
     justify-content: space-evenly;
     background-color: #e3e6e6;
+    margin-top: 5px;
 }
 .box{
     height: 455px;
